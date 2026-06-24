@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Halo, Aku Ilham! 🎓✨
+# 👋 Halo, Aku Pujaa! 🎓✨
 
-*Belajar matematika diskrit | Membangun aplikasi web | Merancang sistem cerdas* 🚀
+*Belajar animasi | Membangun aplikasi web | Merancang sistem cerdas* 🚀
 
 > **"Turning discrete math into elegant code, one set at a time."** 🧮
 
@@ -14,7 +14,7 @@
 
 > 🌟 *Ultimate Flow State*
 
-Dari teori himpunan ke relasi biner, dari algoritma kombinatorik ke sistem rekomendasi — aku selalu mencari cara untuk menghubungkan matematika dengan solusi nyata. Tambahkan kopi hitam, deadline ketat, dan semangat belajar tiada henti. Let's build, compute, and vibe! 💻
+Aku percaya bahwa hal-hal terbaik lahir dari detail kecil yang diperhatikan dengan serius. Bukan sekadar bikin yang "jalan" — tapi yang terasa tepat secara visual, logis secara struktur, dan bermakna bagi yang memakainya. Code bagiku bukan cuma fungsi, tapi bentuk ekspresi! 💻
 
 ---
 
